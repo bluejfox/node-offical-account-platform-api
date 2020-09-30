@@ -1,6 +1,14 @@
 # node-offical-account-platform-api
 
+> 基于NodeJS的微信公众号API后端服务模板
 
+## Feature
+
+- [X] 用户管理
+- [X] AccessToken管理
+- [ ] AccessToken刷新
+- [X] JSSDK签名获取
+- [ ] 上传文件管理
 
 ## QuickStart
 
@@ -13,7 +21,7 @@ see [egg docs][egg] for more detail.
 ```bash
 $ npm i
 $ npm run dev
-$ open http://localhost:7001/
+$ open http://localhost:7010/
 ```
 
 ### Deploy
